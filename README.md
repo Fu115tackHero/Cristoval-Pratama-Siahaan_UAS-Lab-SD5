@@ -1,1 +1,4 @@
-# Cristoval-Pratama-Siahaan_UAS-Lab-SD5
+NAMA : CRISTOVAL PRATAMA SIAHAAN
+NIM : 241401057
+KOM : C
+LAB : SD 5
